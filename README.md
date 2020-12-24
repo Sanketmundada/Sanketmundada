@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
  ![Sanket Mundada's Github Stats](https://github-readme-stats.vercel.app/api?username=Sanketmundada&theme=react)
+ ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketmundada&theme=react&layout=compact)
 
 </div>
 
